@@ -2,8 +2,6 @@
 
 ![AUR license](https://img.shields.io/aur/license/android-studio)
 
-<hr/>
-
 ## About
 
 Carefully curated content to help you ace your next technical interview. 
