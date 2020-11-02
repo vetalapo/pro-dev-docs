@@ -1,6 +1,6 @@
 # Professional developer documentation
 
-![AUR license](https://img.shields.io/aur/license/android-studio)
+![Hex.pm](https://img.shields.io/hexpm/l/plug)
 
 ## About
 
