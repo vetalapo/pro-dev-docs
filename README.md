@@ -16,7 +16,7 @@ Includes:
 - Behavioral questions asked by tech companies
 - Good questions to ask your interviewers at the end of the interviews
 - Helpful resume tips to get your resume noticed and the Do's and Don'ts
-- Compilation of general computer scicence topis discussed during meetups
+- Compilation of general computer science topis discussed during meetups
 
 Help from you in contributing content would be very much appreciated!
 
