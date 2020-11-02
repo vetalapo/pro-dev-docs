@@ -35,4 +35,4 @@ There are no formal contributing guidelines at the moment as things are still in
 Please read [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
 [licence badge]:https://img.shields.io/hexpm/l/plug
-[licence]:https://vetalapo/pro-dev-docs/blob/master/LICENSE.md
+[licence]:https://github.com/vetalapo/pro-dev-docs/blob/main/LICENSE.md
