@@ -1,5 +1,7 @@
 # Professional developer documentation
 
+![AUR license](https://img.shields.io/aur/license/android-studio)
+
 <hr/>
 
 ## About
