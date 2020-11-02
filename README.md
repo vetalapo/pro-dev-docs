@@ -4,7 +4,9 @@
 
 ## About
 
-Carefully curated content to help you ace your next technical interview. System design questions are in-progress. Besides the usual algorithm questions, other **awesome** stuff includes:
+Carefully curated content to help you ace your next technical interview. 
+
+Includes:
 
 - How to prepare for coding interviews
 - Interview Cheatsheet - Straight-to-the-point Do's and Don'ts
@@ -30,5 +32,4 @@ Anybody who wants to land a job at a tech company but is new to technical interv
 
 There are no formal contributing guidelines at the moment as things are still in flux and we might find a better approach to structure content as we go along. You are welcome to contribute whatever you think will be helpful to fellow engineers. If you would like to contribute content for different domains, feel free to create an issue or submit a pull request and we can discuss further.
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md).
-If you're new to GitHub, [welcome](/HOWTO.md)!
+Please read [CONTRIBUTING](/CONTRIBUTING.md) for more information.
