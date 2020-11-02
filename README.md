@@ -1,6 +1,6 @@
 # Professional developer documentation
 
-![Hex.pm](https://img.shields.io/hexpm/l/plug)
+[![licence badge]][licence]
 
 ## About
 
@@ -33,3 +33,6 @@ Anybody who wants to land a job at a tech company but is new to technical interv
 There are no formal contributing guidelines at the moment as things are still in flux and we might find a better approach to structure content as we go along. You are welcome to contribute whatever you think will be helpful to fellow engineers. If you would like to contribute content for different domains, feel free to create an issue or submit a pull request and we can discuss further.
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md) for more information.
+
+[licence badge]:https://img.shields.io/hexpm/l/plug
+[licence]:https://vetalapo/pro-dev-docs/blob/master/LICENSE.md
